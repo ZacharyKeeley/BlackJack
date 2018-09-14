@@ -15,7 +15,7 @@ Here we implemented a betting system. Other improvements included the introducti
 
 Version 3:
 
-A lot of the indentation and parenteses were ugly to look at, so I went through and updated them to improve readability. I added pointers to certain varibales (namely the 'chips' variable, so that I could better keep track of the chips as they were passed to different functions). The version also altered the flow of the program as a means of fixing certain bugs.
+A lot of the indentation and parenteses were ugly to look at, so I went through and updated them to improve readability. I added pointers to certain variables (namely the 'chips' variable, so that I could better keep track of the chips as they were passed to different functions). The version also altered the flow of the program as a means of fixing certain bugs.
 
 Version 4: 
 
