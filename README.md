@@ -7,7 +7,7 @@ This version was generally a conceptual version. It offered prototypes for diffe
 
 Version 1:
 
-Here we did away with the different AI prototypes. I also implemented a general AI that is designed to react to the player's current hand. A recursive function named hitFunction was also implemented. HitFunction is the game engine, and while buggy, handled a lot of the core blackjack gameplay. (To see the AI goal tree, please visit zacharykeeley.com and look under the blackjack tab).
+Here we did away with the different AI prototypes. I also implemented a general AI that is designed to react to the player's current hand. A recursive function named hitFunction was also implemented. HitFunction is the game engine, and while buggy, handled a lot of the core blackjack gameplay.
 
 Version 2: 
 
